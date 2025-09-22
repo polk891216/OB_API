@@ -11,5 +11,6 @@ pyenv local 3.13.7
 python -m venv venv
 source venv/bin/activate
 
+```bash
 # 安裝依賴
 pip install -r requirements.txt
